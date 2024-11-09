@@ -1,0 +1,66 @@
+body{
+    background-image: url(dnaclimb.gif);
+    background-position:center;
+    background-attachment: fixed;
+}
+
+h1{
+    display: block;
+    font-size: 50px;
+    width:max-content;
+    margin: auto;
+    color:white;
+}
+
+p{
+    width: 80%;
+    font-size: 20px;
+    margin: auto;
+    color:white;
+}
+
+ul{
+    width: 80%;
+    font-size: 20px;
+    margin: auto;
+    color:white;
+}
+
+.manin{
+    display: block;
+    width: 80%;
+    max-width: 1000px;
+    margin: auto;
+}
+
+#gi{
+    position: fixed;
+    width: 150px;
+}
+#gil{
+    position: fixed;
+    width: 200px;
+    right: 0px;
+    top: 300px
+}
+
+.gem{
+    height: 300px;
+    align-content:end;
+    font-size: 30px;
+    color: black;
+    font-weight: bold;
+    max-width: 1000px;
+    background-image: url(330541.png);
+
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.vi{
+    width: 80%;
+    height:max-content;
+    max-width: 1000px;
+    display: block;
+    margin: auto;
+}
