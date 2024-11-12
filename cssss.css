@@ -45,6 +45,7 @@ ul{
 }
 
 .gem{
+    min-height: min-content;
     height: 300px;
     align-content:end;
     font-size: 30px;
